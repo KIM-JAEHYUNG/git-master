@@ -1,0 +1,4 @@
+안녕하세요. 반갑습니다. 
+작업 / stage / repository
+git add 파일명
+살짝 바꾸었어요
